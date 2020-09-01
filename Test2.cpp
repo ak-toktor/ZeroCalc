@@ -2,7 +2,6 @@
 //
 
 #include <iostream>
-
 int main()
 {
     unsigned int val = 260;
