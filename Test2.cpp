@@ -22,5 +22,5 @@ int main()
             ++zeroBitsCount;
         }
     }
-    std::cout << "zeroBitsCount: " << zeroBitsCount << std::endl;
+    std::cout << "Zero Bits Count:" << zeroBitsCount << std::endl;
 }
